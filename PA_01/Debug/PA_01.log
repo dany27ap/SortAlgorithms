@@ -1,0 +1,6 @@
+﻿  sortari.cpp
+c:\users\danny\source\repos\pa_01\pa_01\sortari.cpp(156): warning C4244: 'argument': conversion from 'unsigned __int64' to 'int', possible loss of data
+c:\users\danny\source\repos\pa_01\pa_01\sortari.cpp(158): warning C4244: 'argument': conversion from 'unsigned __int64' to 'int', possible loss of data
+c:\users\danny\source\repos\pa_01\pa_01\sortari.cpp(180): warning C4244: 'argument': conversion from 'unsigned __int64' to 'int', possible loss of data
+c:\users\danny\source\repos\pa_01\pa_01\sortari.cpp(182): warning C4244: 'argument': conversion from 'unsigned __int64' to 'int', possible loss of data
+  PA_01.vcxproj -> C:\Users\Danny\source\repos\PA_01\Debug\PA_01.exe
